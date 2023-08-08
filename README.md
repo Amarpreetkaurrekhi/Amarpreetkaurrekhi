@@ -1,4 +1,4 @@
-![logo](https://github.com/Amarpreetkaurrekhi/Amarpreetkaurrekhi/blob/main/green%20computer%20repair%20specialist%20instagram%20ad.png)
+
 <h1 align="center">Hi 👋, I'm Amarpreet Kaur Rekhi</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 <img align="right" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
